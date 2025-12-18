@@ -1,0 +1,13 @@
+{
+  "name": "youtrack-fastapi",
+  "description": "MCP server for YouTrack FastAPI endpoints",
+  "version": "1.0.0",
+  "openapi": "http://localhost:8000/openapi.json",
+  "tools": [
+    {
+      "name": "youtrack-api",
+      "description": "Interact with YouTrack endpoints (Agile boards, sprints, tickets, KB articles)",
+      "schema": "http://localhost:8000/openapi.json"
+    }
+  ]
+}
