@@ -8,7 +8,7 @@ This project started as a **POC** and is designed to be easily extended and host
 
 ##  Features
 
-* 🔍 View and search YouTrack issues
+*  View and search YouTrack issues
 *  Create new issues
 *  Access Agile boards and sprints
 *  Fetch tickets per user or sprint
